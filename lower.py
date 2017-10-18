@@ -34,3 +34,4 @@ for i in preprocessed_documents:
     frecuency_list.append(frecuency_counts)
 
 pprint.pprint(frecuency_list)
+
